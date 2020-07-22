@@ -3,7 +3,8 @@
 
 A simple Electron app template with python(Flask) backend.
 
-```npm install''
-```npm start'''
+```npm install
+
+   npm start'''
 
 
